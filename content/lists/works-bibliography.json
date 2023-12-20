@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "title1": "Romans et Nouvelles",
+      "scientificEditor": "H. Martineau",
+      "location": "Paris",
+      "editor": "Gallimard",
+      "date": "1954"
+    },
+    {
+      "title1": "Contes étranges",
+      "scientificEditor": "A. Caillois",
+      "location": "Paris",
+      "editor": "Editions Vialetay",
+      "date": "1972"
+    },
+    {
+      "title1": "Carmen, Colomba et autres nouvelles",
+      "scientificEditor": "A. Pieyre de Mandiargues",
+      "location": "Paris",
+      "editor": "Club des Classiques",
+      "date": "1970"
+    },
+    {
       "title1": "Carmen, Arsène Guillot, L'Abbé Aubain",
       "scientificEditor": "M. Parturier",
       "location": "Paris",
