@@ -1,5 +1,5 @@
 ---
-picture: /images/uploads/lpdp_33464-14.jpg
+picture: https://www.fabula.org/actualites/documents/117664_bfce471d074d1cbd15dd26ad73fe01f3.png.webp
 ---
 Prosper Mérimée a laissé une grande œuvre. Dix-huit nouvelles, dont une demi-douzaine comptent parmi les balises de l’histoire littéraire, et des centaines d’édifices, arcs de triomphe, cathédrales, palais, avec des statues, des fresques, des tapisseries, des retables, qui font vivre le passé grâce à l’inspecteur général des Monuments historiques. Traducteur, il a fait connaître des œuvres de Pouchkine et de Gogol aux lecteurs français. Historien, il a été le premier à fonder une monographie de Pèdre Ier de Castille sur des documents des archives de Madrid et de Barcelone. Cette inscription dans plusieurs domaines culturels assure une rare originalité à son œuvre, en même temps qu’elle provoque la réticence de nombreux commentateurs à l’égard de la vocation plurielle de l’auteur.
 
@@ -23,12 +23,4 @@ De nos jours, l’œuvre de Mérimée rencontre un accueil étrange. L’écriva
 
 En 1903, le centenaire de la naissance de Mérimée a passé inaperçu. En 1920, cinquantenaire de sa mort, la presse a célébré l’écrivain, donnant l’impulsion à d’importants travaux d’édition et de recherche. En 1953, la Bibliothèque nationale a présenté une grande exposition de plus de cinq cents pièces. En 1970, les archéologues surtout lui ont rendu hommage par une exposition et par diverses publications. 2003 est le bicentenaire de sa naissance. Le temps est venu, peut-être, de reconnaître la pluralité des dimensions de son œuvre et sa valeur.
 
- 
-
 Antonia Fonyi
-
-Lorem ipsum dolor sit amet, Prosper Mérimée adipiscing elit. Etiam cahiers consectetur est. Proin id nulla venenatis, hendrerit magna eu, tristique mi. Curabitur varius bibendum lorem, vel interdum sem luctus vehicula. Sed séminaires viverra elit sit amet tempor. Proin tellus arcu, cahiers vitae ultrices ut, consectetur quis turpis. Nunc ultrices sagittis elementum. Sed eget bibliographie enim, ut séminaires odio. Sed sit amet luctus felis. Proin tortor mauris, sollicitudin in facilisis nec, eleifend id turpis. Aenean metus finibus semper. Adaptations sit amet eleifend magna.
-
-![placeholder](/images/uploads/imgplaceholder.png "Image vide")
-
-Lorem ipsum dolor sit amet, Prosper Mérimée adipiscing elit. Etiam cahiers consectetur est. Proin id nulla venenatis, hendrerit magna eu, tristique mi. Curabitur varius bibendum lorem, vel interdum sem luctus vehicula. Sed séminaires viverra elit sit amet tempor. Proin tellus arcu, cahiers vitae ultrices ut, consectetur quis turpis. Nunc ultrices sagittis elementum. Sed eget bibliographie enim, ut séminaires odio. Sed sit amet luctus felis. Proin tortor mauris, sollicitudin in facilisis nec, eleifend id turpis. Aenean metus finibus semper. Adaptations sit amet eleifend magna.
