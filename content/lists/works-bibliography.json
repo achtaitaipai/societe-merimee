@@ -1,6 +1,54 @@
 {
   "entries": [
     {
+      "title1": "Carmen, Arsène Guillot, L'Abbé Aubain",
+      "scientificEditor": "M. Parturier",
+      "location": "Paris",
+      "editor": "Les Belles Lettres",
+      "date": "1930"
+    },
+    {
+      "title1": "La Guzla, Dernières Nouvelles",
+      "scientificEditor": "E. Marsan",
+      "location": "Paris",
+      "editor": "Le Divan",
+      "date": "1928"
+    },
+    {
+      "title1": "Dernières nouvelles",
+      "scientificEditor": "L. Lemonnier",
+      "location": "Paris",
+      "editor": "Champion",
+      "date": "1929"
+    },
+    {
+      "title1": "Lokis, la dernière nouvelle de P. Mérimée",
+      "scientificEditor": "R. Schmittlein",
+      "location": "Bade",
+      "editor": "Arts et Sciences",
+      "date": "1949"
+    },
+    {
+      "title1": "La Vénus d'Ille et autres nouvelles",
+      "location": "Paris",
+      "editor": "Garnier-Flammarion",
+      "date": "1982"
+    },
+    {
+      "title1": "Carmen et quelques autres nouvelles",
+      "scientificEditor": ">V. Larbaud",
+      "location": "Paris",
+      "editor": "Payot",
+      "date": "1927"
+    },
+    {
+      "title1": "Carmen, Arsène Guillot, L'Abbé Aubain",
+      "scientificEditor": "G. d'Houville, A. Dupouy",
+      "location": "Paris",
+      "editor": "Champion",
+      "date": "1927"
+    },
+    {
       "title1": "Les Ames du purgatoire, Carmen",
       "location": "Paris",
       "editor": "Garnier-Flammarion",
