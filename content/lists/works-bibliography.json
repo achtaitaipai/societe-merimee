@@ -1,6 +1,27 @@
 {
   "entries": [
     {
+      "title1": "Nouvelles",
+      "scientificEditor": "M. Crouzet",
+      "location": "Paris",
+      "editor": "Imprimerie nationale",
+      "date": "1986"
+    },
+    {
+      "title1": "Romans et Nouvelles",
+      "scientificEditor": "M. Parturier",
+      "location": "Paris",
+      "editor": "Garnier",
+      "date": "1967"
+    },
+    {
+      "title1": "Nouvelles complètes",
+      "scientificEditor": "P. Josserand",
+      "location": "Paris",
+      "editor": "Le Livre de Poche",
+      "date": "1964-1965"
+    },
+    {
       "title1": "Romans et Nouvelles",
       "scientificEditor": "H. Martineau",
       "location": "Paris",
