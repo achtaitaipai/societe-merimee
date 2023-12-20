@@ -1,6 +1,32 @@
 {
   "entries": [
     {
+      "title1": "Les Ames du purgatoire, Carmen",
+      "location": "Paris",
+      "editor": "Garnier-Flammarion",
+      "date": "1973"
+    },
+    {
+      "title1": "Colomba",
+      "location": "Paris",
+      "editor": "Garnier-Flammarion",
+      "date": "1964"
+    },
+    {
+      "title1": "Carmen, Arsène Guillot, L'Abbé Aubain, La Double Méprise",
+      "scientificEditor": "E. Marsan",
+      "location": "Paris",
+      "editor": "Le Divan",
+      "date": "1927"
+    },
+    {
+      "title1": "Colomba",
+      "scientificEditor": "P. Jourda",
+      "location": "Paris, Genève",
+      "editor": "Droz",
+      "date": "1947"
+    },
+    {
       "title1": "Colomba, La Vénus d'Isle, Les Ames du purgatoire",
       "location": "Paris",
       "scientificEditor": "E. Marsan",
