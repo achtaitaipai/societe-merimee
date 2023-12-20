@@ -2,6 +2,13 @@
   "entries": [
     {
       "title1": "Mosaïque",
+      "scientificEditor": "M. Levaillant",
+      "location": "Paris",
+      "editor": "Champion",
+      "date": "1933"
+    },
+    {
+      "title1": "Mosaïque",
       "scientificEditor": "E. Marsan",
       "location": "Paris",
       "editor": "Le Divan",
